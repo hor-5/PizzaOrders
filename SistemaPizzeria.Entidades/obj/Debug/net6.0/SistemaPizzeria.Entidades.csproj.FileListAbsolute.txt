@@ -1,0 +1,12 @@
+C:\Users\Usuario\source\repos\SistemaPizzeria\SistemaPizzeria.Entidades\bin\Debug\net6.0\SistemaPizzeria.Entidades.deps.json
+C:\Users\Usuario\source\repos\SistemaPizzeria\SistemaPizzeria.Entidades\bin\Debug\net6.0\SistemaPizzeria.Entidades.dll
+C:\Users\Usuario\source\repos\SistemaPizzeria\SistemaPizzeria.Entidades\bin\Debug\net6.0\ref\SistemaPizzeria.Entidades.dll
+C:\Users\Usuario\source\repos\SistemaPizzeria\SistemaPizzeria.Entidades\bin\Debug\net6.0\SistemaPizzeria.Entidades.pdb
+C:\Users\Usuario\source\repos\SistemaPizzeria\SistemaPizzeria.Entidades\obj\Debug\net6.0\SistemaPizzeria.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\SistemaPizzeria\SistemaPizzeria.Entidades\obj\Debug\net6.0\SistemaPizzeria.Entidades.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\SistemaPizzeria\SistemaPizzeria.Entidades\obj\Debug\net6.0\SistemaPizzeria.Entidades.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\SistemaPizzeria\SistemaPizzeria.Entidades\obj\Debug\net6.0\SistemaPizzeria.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\SistemaPizzeria\SistemaPizzeria.Entidades\obj\Debug\net6.0\SistemaPizzeria.Entidades.dll
+C:\Users\Usuario\source\repos\SistemaPizzeria\SistemaPizzeria.Entidades\obj\Debug\net6.0\ref\SistemaPizzeria.Entidades.dll
+C:\Users\Usuario\source\repos\SistemaPizzeria\SistemaPizzeria.Entidades\obj\Debug\net6.0\SistemaPizzeria.Entidades.pdb
+C:\Users\Usuario\source\repos\SistemaPizzeria\SistemaPizzeria.Entidades\obj\Debug\net6.0\SistemaPizzeria.Entidades.csproj.AssemblyReference.cache

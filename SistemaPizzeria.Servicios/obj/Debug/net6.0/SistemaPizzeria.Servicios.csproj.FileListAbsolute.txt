@@ -1,0 +1,17 @@
+C:\Users\Usuario\source\repos\SistemaPizzeria\SistemaPizzeria.Servicios\bin\Debug\net6.0\SistemaPizzeria.Servicios.deps.json
+C:\Users\Usuario\source\repos\SistemaPizzeria\SistemaPizzeria.Servicios\bin\Debug\net6.0\SistemaPizzeria.Servicios.dll
+C:\Users\Usuario\source\repos\SistemaPizzeria\SistemaPizzeria.Servicios\bin\Debug\net6.0\ref\SistemaPizzeria.Servicios.dll
+C:\Users\Usuario\source\repos\SistemaPizzeria\SistemaPizzeria.Servicios\bin\Debug\net6.0\SistemaPizzeria.Servicios.pdb
+C:\Users\Usuario\source\repos\SistemaPizzeria\SistemaPizzeria.Servicios\bin\Debug\net6.0\SistemaPizzeria.Datastore.dll
+C:\Users\Usuario\source\repos\SistemaPizzeria\SistemaPizzeria.Servicios\bin\Debug\net6.0\SistemaPizzeria.Entidades.dll
+C:\Users\Usuario\source\repos\SistemaPizzeria\SistemaPizzeria.Servicios\bin\Debug\net6.0\SistemaPizzeria.Datastore.pdb
+C:\Users\Usuario\source\repos\SistemaPizzeria\SistemaPizzeria.Servicios\bin\Debug\net6.0\SistemaPizzeria.Entidades.pdb
+C:\Users\Usuario\source\repos\SistemaPizzeria\SistemaPizzeria.Servicios\obj\Debug\net6.0\SistemaPizzeria.Servicios.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\SistemaPizzeria\SistemaPizzeria.Servicios\obj\Debug\net6.0\SistemaPizzeria.Servicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\SistemaPizzeria\SistemaPizzeria.Servicios\obj\Debug\net6.0\SistemaPizzeria.Servicios.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\SistemaPizzeria\SistemaPizzeria.Servicios\obj\Debug\net6.0\SistemaPizzeria.Servicios.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\SistemaPizzeria\SistemaPizzeria.Servicios\obj\Debug\net6.0\SistemaPizzeria.Servicios.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\SistemaPizzeria\SistemaPizzeria.Servicios\obj\Debug\net6.0\SistemaPizzeria.Servicios.csproj.CopyComplete
+C:\Users\Usuario\source\repos\SistemaPizzeria\SistemaPizzeria.Servicios\obj\Debug\net6.0\SistemaPizzeria.Servicios.dll
+C:\Users\Usuario\source\repos\SistemaPizzeria\SistemaPizzeria.Servicios\obj\Debug\net6.0\ref\SistemaPizzeria.Servicios.dll
+C:\Users\Usuario\source\repos\SistemaPizzeria\SistemaPizzeria.Servicios\obj\Debug\net6.0\SistemaPizzeria.Servicios.pdb

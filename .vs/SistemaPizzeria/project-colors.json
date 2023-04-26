@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b39f429e-de0c-495f-ae1b-90f827efb6a7": {
+      "ProjectGuid": "b39f429e-de0c-495f-ae1b-90f827efb6a7",
+      "DisplayName": "SistemaPizzeria.Datastore",
+      "ColorIndex": 0
+    },
+    "777f356d-632f-46e6-bae3-8454db45e85d": {
+      "ProjectGuid": "777f356d-632f-46e6-bae3-8454db45e85d",
+      "DisplayName": "SistemaPizzeria.Servicios",
+      "ColorIndex": 1
+    },
+    "7a38bbd2-57a0-4ad0-9ee0-93ed3f53b28b": {
+      "ProjectGuid": "7a38bbd2-57a0-4ad0-9ee0-93ed3f53b28b",
+      "DisplayName": "SistemaPizzeria.Entidades",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Archivos varios",
+      "ColorIndex": -1
+    },
+    "ad5dc5fe-1cd9-40ef-a460-4f1d9e05692f": {
+      "ProjectGuid": "ad5dc5fe-1cd9-40ef-a460-4f1d9e05692f",
+      "DisplayName": "SistemaPizzeria.API",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

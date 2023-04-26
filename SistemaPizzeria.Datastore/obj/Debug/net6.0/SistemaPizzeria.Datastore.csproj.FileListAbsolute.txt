@@ -1,0 +1,15 @@
+C:\Users\Usuario\source\repos\SistemaPizzeria\SistemaPizzeria.Datastore\bin\Debug\net6.0\SistemaPizzeria.Datastore.deps.json
+C:\Users\Usuario\source\repos\SistemaPizzeria\SistemaPizzeria.Datastore\bin\Debug\net6.0\SistemaPizzeria.Datastore.dll
+C:\Users\Usuario\source\repos\SistemaPizzeria\SistemaPizzeria.Datastore\bin\Debug\net6.0\ref\SistemaPizzeria.Datastore.dll
+C:\Users\Usuario\source\repos\SistemaPizzeria\SistemaPizzeria.Datastore\bin\Debug\net6.0\SistemaPizzeria.Datastore.pdb
+C:\Users\Usuario\source\repos\SistemaPizzeria\SistemaPizzeria.Datastore\bin\Debug\net6.0\SistemaPizzeria.Entidades.dll
+C:\Users\Usuario\source\repos\SistemaPizzeria\SistemaPizzeria.Datastore\bin\Debug\net6.0\SistemaPizzeria.Entidades.pdb
+C:\Users\Usuario\source\repos\SistemaPizzeria\SistemaPizzeria.Datastore\obj\Debug\net6.0\SistemaPizzeria.Datastore.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\SistemaPizzeria\SistemaPizzeria.Datastore\obj\Debug\net6.0\SistemaPizzeria.Datastore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\SistemaPizzeria\SistemaPizzeria.Datastore\obj\Debug\net6.0\SistemaPizzeria.Datastore.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\SistemaPizzeria\SistemaPizzeria.Datastore\obj\Debug\net6.0\SistemaPizzeria.Datastore.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\SistemaPizzeria\SistemaPizzeria.Datastore\obj\Debug\net6.0\SistemaPizzeria.Datastore.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\SistemaPizzeria\SistemaPizzeria.Datastore\obj\Debug\net6.0\SistemaPizzeria.Datastore.csproj.CopyComplete
+C:\Users\Usuario\source\repos\SistemaPizzeria\SistemaPizzeria.Datastore\obj\Debug\net6.0\SistemaPizzeria.Datastore.dll
+C:\Users\Usuario\source\repos\SistemaPizzeria\SistemaPizzeria.Datastore\obj\Debug\net6.0\ref\SistemaPizzeria.Datastore.dll
+C:\Users\Usuario\source\repos\SistemaPizzeria\SistemaPizzeria.Datastore\obj\Debug\net6.0\SistemaPizzeria.Datastore.pdb

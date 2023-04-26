@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SistemaPizzeria.Datastore", "SistemaPizzeria.Datastore", "{F89E24C6-B586-41A9-8CF1-F1080E3F9766}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SistemaPizzeriaEntidades", "SistemaPizzeriaEntidades", "{39446F3E-4337-49AB-8A65-DA2F31387F25}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SistemaPizzeria.Servicios", "SistemaPizzeria.Servicios", "{EE54B4D7-D266-4C14-9032-2D5AE55B87DF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SistemaPizzeria.API", "SistemaPizzeria.API", "{E356A2C1-58A3-4317-B6A7-51A7F247AE81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaPizzeria.API", "SistemaPizzeria.API\SistemaPizzeria.API.csproj", "{AD5DC5FE-1CD9-40EF-A460-4F1D9E05692F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaPizzeria.Datastore", "SistemaPizzeria.Datastore\SistemaPizzeria.Datastore.csproj", "{B39F429E-DE0C-495F-AE1B-90F827EFB6A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaPizzeria.Servicios", "SistemaPizzeria.Servicios\SistemaPizzeria.Servicios.csproj", "{777F356D-632F-46E6-BAE3-8454DB45E85D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaPizzeria.Entidades", "SistemaPizzeria.Entidades\SistemaPizzeria.Entidades.csproj", "{7A38BBD2-57A0-4AD0-9EE0-93ED3F53B28B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD5DC5FE-1CD9-40EF-A460-4F1D9E05692F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD5DC5FE-1CD9-40EF-A460-4F1D9E05692F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD5DC5FE-1CD9-40EF-A460-4F1D9E05692F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD5DC5FE-1CD9-40EF-A460-4F1D9E05692F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B39F429E-DE0C-495F-AE1B-90F827EFB6A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B39F429E-DE0C-495F-AE1B-90F827EFB6A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B39F429E-DE0C-495F-AE1B-90F827EFB6A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B39F429E-DE0C-495F-AE1B-90F827EFB6A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{777F356D-632F-46E6-BAE3-8454DB45E85D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{777F356D-632F-46E6-BAE3-8454DB45E85D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{777F356D-632F-46E6-BAE3-8454DB45E85D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{777F356D-632F-46E6-BAE3-8454DB45E85D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A38BBD2-57A0-4AD0-9EE0-93ED3F53B28B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A38BBD2-57A0-4AD0-9EE0-93ED3F53B28B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A38BBD2-57A0-4AD0-9EE0-93ED3F53B28B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A38BBD2-57A0-4AD0-9EE0-93ED3F53B28B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{AD5DC5FE-1CD9-40EF-A460-4F1D9E05692F} = {E356A2C1-58A3-4317-B6A7-51A7F247AE81}
+		{B39F429E-DE0C-495F-AE1B-90F827EFB6A7} = {F89E24C6-B586-41A9-8CF1-F1080E3F9766}
+		{777F356D-632F-46E6-BAE3-8454DB45E85D} = {EE54B4D7-D266-4C14-9032-2D5AE55B87DF}
+		{7A38BBD2-57A0-4AD0-9EE0-93ED3F53B28B} = {39446F3E-4337-49AB-8A65-DA2F31387F25}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C08B572-56FF-429D-B2C8-F42E2174D091}
+	EndGlobalSection
+EndGlobal
